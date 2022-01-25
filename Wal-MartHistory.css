@@ -1,0 +1,34 @@
+/* Austin Hegarty, CIS-1152 */
+* {
+	color: #FFC220;
+	font-family: Tahoma, arial, sans-serif;
+	background-color: #1A75CF;
+}
+html {
+	border-top: 10px solid #76C043;
+}
+h1 {
+	font-size: 2.5em;
+	text-align: center;
+}
+h2 {
+	font-size: 2em;
+	margin: 5px;
+}
+p {
+	width: 50%;
+	font-size: 1.6em;
+	margin: 40px;
+}
+.fullwidthp {
+	width: 100%;
+}
+.image{
+	float: right;
+	width: 45%;
+}
+.logo {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+}
